@@ -1,0 +1,68 @@
+/* ID start here. */
+
+
+/* Class section */
+
+.gh{
+    width:100%;
+}
+
+.about{
+    width:100%;
+}
+.examples{
+    width: 100%;
+    margin-top: 33px;
+    margin-bottom: 33px;
+}
+.build{
+    width: 100%;
+    margin-top: 33px;
+    margin-bottom: 33px;
+}
+.font{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.navbar-nav{
+    border: 5px solid rgb(235, 248, 235);
+    margin: 7px;
+    
+}
+.nav-item{
+        background-color: rgb(253, 248, 242);
+        border: 5px solid rgb(224, 235, 224);
+        padding: 10px;
+        margin: 10px;
+        
+}
+.CircleButton{
+    width: 10%;
+    height:60px;
+    border-radius: 50%;
+    border: none;
+    color: rgb(168, 139, 65);
+    background: #d7ff8c; 
+    padding: 0px;
+    text-align:center;
+}
+.container{
+    height:250px;
+    background: #bada55;
+    
+}
+.icons{
+    
+    text-align: center;
+    border-radius: 19;
+    
+}
+img[class^=icon] {
+    vertical-align: middle;
+    display: inline-block;
+    height: 100%;
+    margin:0 1em;
+    padding:10px;
+}
+
